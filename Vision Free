@@ -4,9 +4,9 @@ local scripts = {
     [6569480109] = "https://raw.githubusercontent.com/PunchMadeScript/Streetball/refs/heads/main/Gui",       -- Streetball
     [123456789] = "https://raw.githubusercontent.com/PunchMadeScript/phenom-aim-lock/refs/heads/main/Gui", -- Phenom
     [987654321] = "https://raw.githubusercontent.com/PunchMadeScript/Basketball-Legends/refs/heads/main/Souce",  -- Basketball Legends
-    [16347334090] = "https://raw.githubusercontent.com/PunchMadeScript/Hoop-Nation-2/refs/heads/main/Free%20Gui", -- hoop nation 2 park
-    [16110530195] = "https://raw.githubusercontent.com/PunchMadeScript/Hoop-Nation-2/refs/heads/main/Free%20Gui",       -- Hoop Nation 2 matchmkaing
-    [16128274392] = "https://raw.githubusercontent.com/PunchMadeScript/Hoop-Nation-2/refs/heads/main/Free%20Gui", -- Hoop Nation 2 Mycourt 
+    [16347334090] = "https://raw.githubusercontent.com/kosta5630/Hoop-Nation/refs/heads/main/Gui", -- hoop nation 2 park
+    [16110530195] = "https://raw.githubusercontent.com/kosta5630/Hoop-Nation/refs/heads/main/Gui",       -- Hoop Nation 2 matchmkaing
+    [16128274392] = "https://raw.githubusercontent.com/kosta5630/Hoop-Nation/refs/heads/main/Gui", -- Hoop Nation 2 Mycourt 
     [6229116934] = "https://raw.githubusercontent.com/kosta5630/Hoopz/refs/heads/main/GUI",       -- Hoopz
 
     -- Add more Place IDs and script URLs here
