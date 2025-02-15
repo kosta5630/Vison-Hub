@@ -7,7 +7,7 @@ local scripts = {
     [16347334090] = "https://raw.githubusercontent.com/PunchMadeScript/Hoop-Nation-2/refs/heads/main/Free%20Gui", -- hoop nation 2 park
     [16110530195] = "https://raw.githubusercontent.com/PunchMadeScript/Hoop-Nation-2/refs/heads/main/Free%20Gui",       -- Hoop Nation 2 matchmkaing
     [16128274392] = "https://raw.githubusercontent.com/PunchMadeScript/Hoop-Nation-2/refs/heads/main/Free%20Gui", -- Hoop Nation 2 Mycourt 
-    [6229116934] = "https://raw.githubusercontent.com/PunchMadeScript/Vision-Hoopz/refs/heads/main/Gui",       -- Hoopz
+    [6229116934] = "https://raw.githubusercontent.com/kosta5630/Hoopz/refs/heads/main/GUI",       -- Hoopz
 
     -- Add more Place IDs and script URLs here
 }
