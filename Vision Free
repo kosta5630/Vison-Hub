@@ -10,9 +10,9 @@ local scripts = {
     [6229116934] = "https://raw.githubusercontent.com/kosta5630/Hoopz/refs/heads/main/GUI",       -- Hoopz
     [13272886093] = "https://raw.githubusercontent.com/kosta5630/RH2/refs/heads/main/Gui",       -- RH2 Plaza
     [12355337193] = "https://raw.githubusercontent.com/kosta5630/Mvs/refs/heads/main/Free%20Gui", -- MVS Lobby
-    [14259168147] = "https://raw.githubusercontent.com/kosta5630/Mvs/refs/heads/main/Free%20Gui", -- Basketball Legends 5v5
-    [14386691987] = "https://raw.githubusercontent.com/kosta5630/Mvs/refs/heads/main/Free%20Gui", -- Basketball Legends Park
-    [17652855195] = "https://raw.githubusercontent.com/kosta5630/Mvs/refs/heads/main/Free%20Gui", -- Basketball Legends Rank
+    [14259168147] = "https://raw.githubusercontent.com/kosta5630/Basketball-Legends/refs/heads/main/Free%20GUi", -- Basketball Legends 5v5
+    [14386691987] = "https://raw.githubusercontent.com/kosta5630/Basketball-Legends/refs/heads/main/Free%20GUi", -- Basketball Legends Park
+    [17652855195] = "https://raw.githubusercontent.com/kosta5630/Basketball-Legends/refs/heads/main/Free%20GUi", -- Basketball Legends Rank
     -- Add more Place IDs and script URLs here
 }
 
