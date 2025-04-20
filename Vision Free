@@ -14,7 +14,9 @@ local scripts = {
     [14386691987] = "https://raw.githubusercontent.com/kosta5630/Basketball-Legends/refs/heads/main/Free%20GUi", -- Basketball Legends Park
     [17652855195] = "https://raw.githubusercontent.com/kosta5630/Basketball-Legends/refs/heads/main/Free%20GUi", -- Basketball Legends Rank
     [6585022145] = "https://raw.githubusercontent.com/kosta5630/RH2/refs/heads/main/Gui", -- Build Creator
-
+    [17483792958] = "https://raw.githubusercontent.com/kosta5630/Hoops-Life/refs/heads/main/Free%20gui", -- Hoops Life
+    [18894472013] = "https://raw.githubusercontent.com/kosta5630/Hoops-Life/refs/heads/main/Free%20gui", -- Hoops Life
+    [16996050230] = "https://raw.githubusercontent.com/kosta5630/Hoops-Life/refs/heads/main/Free%20gui", -- Hoops Life
     -- Add more Place IDs and script URLs here
 }
 
