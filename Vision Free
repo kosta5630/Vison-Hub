@@ -17,6 +17,8 @@ local scripts = {
     [17483792958] = "https://raw.githubusercontent.com/kosta5630/Hoops-Life/refs/heads/main/Free%20gui", -- Hoops Life
     [18894472013] = "https://raw.githubusercontent.com/kosta5630/Hoops-Life/refs/heads/main/Free%20gui", -- Hoops Life
     [16996050230] = "https://raw.githubusercontent.com/kosta5630/Hoops-Life/refs/heads/main/Free%20gui", -- Hoops Life
+    [15800296330] = "https://raw.githubusercontent.com/kosta5630/Rbw5-public/refs/heads/main/Gui", -- RBW 5 Lobby
+    [85959597177250] = "https://raw.githubusercontent.com/kosta5630/Rbw5-public/refs/heads/main/Gui", -- RBW5 5v5 / 3v3
     -- Add more Place IDs and script URLs here
 }
 
