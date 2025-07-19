@@ -20,6 +20,7 @@ local scripts = {
     [15800296330] = "https://raw.githubusercontent.com/kosta5630/Rbw5-public/refs/heads/main/Gui", -- RBW 5 Lobby
     [85959597177250] = "https://raw.githubusercontent.com/kosta5630/Rbw5-public/refs/heads/main/Gui", -- RBW5 5v5 / 3v3
     [5462326700] = "https://raw.githubusercontent.com/kosta5630/Rbw5-public/refs/heads/main/Gui", -- RBW5 pratice
+    [134558434771720] = "https://github.com/kosta5630/Arcade-basketball-public/blob/main/Gui", -- Basketball Arcade
     -- Add more Place IDs and script URLs here
 }
 
